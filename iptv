@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1, Set Max
+rtmp://pakistani.mine.nu:1935/live/1.ch?u=FAISAL53:p=sajjadmalik
+#EXTINF:-1,Rishtey
+rtmp://pakistani.mine.nu:1935/live/2.ch?u=FAISAL53:p=sajjadmalik
+#EXTINF:-1,ARY QTV
+rtmp://pakistani.mine.nu:1935/live/3.ch?u=FAISAL53:p=sajjadmalik
